@@ -330,9 +330,8 @@ A colleague says they can log in but cannot access certain features
 ...................................................................
 
 This is almost always a role issue. Go to the **Members** tab, find the
-colleague, and check which roles are currently assigned to them. Ensure the correct roles are set for what they need to
-do.
+colleague, and check which roles are currently assigned to them. 
+Ensure the correct roles are set for what they need to do.
 
-----
 
 

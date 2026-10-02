@@ -40,8 +40,8 @@ Admin and has received a registration link from the phyHUB team.
 Step 1: Open the Registration Link and Fill In Your Details
 ...........................................................
 
-Click the registration link you received. You will land on the **Register
-Organization** page.
+Click the registration link https://www.phyhub.phytec.de/auth/register-organization. 
+You will land on the **Register Organization** page.
 
 .. figure:: /images/register-organization.png
 
